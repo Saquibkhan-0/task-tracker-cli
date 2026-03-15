@@ -13,3 +13,5 @@ A simple Command Line Interface (CLI) built with Python to manage your daily tas
    `git clone https://github.com/your-username/task-tracker-cli.git`
 2. Run the script:
    `python task_tracker.py add "New Task"`
+
+**Project URL:** [https://github.com/Saquibkhan-0/task-tracker-cli](https://github.com/Saquibkhan-0/task-tracker-cli)
